@@ -1,0 +1,40 @@
+.main{
+    border-style: solid;
+    margin: auto;
+    margin-top: 100px;
+    height: 400px;
+    width: 600px;
+    background-color: antiquewhite;
+    
+}
+.main h3{
+    margin-left: 110px;
+}
+.main h4{
+    margin-left: 210px;
+    font-style: bold;
+}
+.main ul{
+    margin-left: 70px;
+}
+.main input{
+    margin-left: 140px;
+}
+.click{
+    margin-right: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#check{
+    margin-left: 100px;
+}
+#reset{
+    margin-left: 100px;
+}
+#para{
+    margin-left: 175px;
+}
+#def{
+    margin-left: 175px;
+}
